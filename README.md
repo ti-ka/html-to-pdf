@@ -1,5 +1,5 @@
 # html-to-pdf
-The simplest html-to-pdf Javascript Library:
+The simplest html-to-pdf Javascript Library: Print "Hello-World": https://dev.tika.me/pdfy/?html=Hello-World
 
 Usage:
 ```
