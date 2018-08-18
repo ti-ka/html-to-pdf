@@ -3,7 +3,7 @@ The simplest html-to-pdf Javascript Library: Print "Hello-World": https://dev.ti
 
 Usage:
 ```
-<script type="text/javascript" src="https://raw.githubusercontent.com/ti-ka/html-to-pdf/master/pdfy.js">
+<script type="text/javascript" src="pdfy.js">
 ```
 
 Then:
