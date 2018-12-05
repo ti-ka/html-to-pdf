@@ -24,3 +24,6 @@ window.pdfyServer = "/server/php/index.php";
 ```
 
 Currently uses: "https://dev.tika.me/pdfy/" (Availability not guaranteed)
+
+# Dotnet Project for Server
+https://github.com/ti-ka/pdfy-server-dotnet
